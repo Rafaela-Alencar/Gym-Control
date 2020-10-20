@@ -1,4 +1,28 @@
 {
+  "members": [
+    {
+      "avatar_url": "https://images.unsplash.com/photo-1550345332-09e3ac987658?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=600&q=60",
+      "name": "Marcela Bandeira",
+      "email": "rafaela.ro@gmail.com",
+      "birth": -307411200000,
+      "weight": "70",
+      "height": "165",
+      "gender": "F",
+      "id": 1,
+      "_method": "DELETE"
+    },
+    {
+      "avatar_url": "https://images.unsplash.com/photo-1548690312-e3b507d8c110?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=600&q=60",
+      "name": "Fernanda Mazon",
+      "email": "rafaelalves.ro@gmail.com",
+      "birth": null,
+      "weight": "50",
+      "height": "155",
+      "gender": "F",
+      "id": 2,
+      "_method": "DELETE"
+    }
+  ],
   "instructors": [
     {
       "avatar_url": "https://images.unsplash.com/photo-1548690312-e3b507d8c110?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=600&q=60",
@@ -93,7 +117,7 @@
       "id": 10,
       "avatar_url": "https://images.unsplash.com/photo-1571731956672-f2b94d7dd0cb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=600&q=60",
       "name": "Valentina Rodrigues",
-      "birth": 713318400000,
+      "birth": 334281600000,
       "gender": "F",
       "services": "Musculação, Crossfit",
       "created_at": 1601927881133,
